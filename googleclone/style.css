@@ -1,0 +1,65 @@
+.deneme {
+   width: 351px;
+   height: 113px;
+   margin: auto auto; 
+}
+
+.cubuk {
+    width: 1200px;
+    height: 70px;
+    text-align: center;
+    background-color: #EEEEEE;
+    margin: auto auto;
+  
+}
+
+
+.main  { 
+    width: 1200px;
+   
+}
+
+.kutu1 {
+    width: 33%;
+    height: 80px;
+    background-color: #7EE5DA;
+    float: left;
+   
+}
+
+.kutu2 {
+    width: 33%;
+    height: 80px;
+  
+    margin-left: 5px;
+    background-color:#70CCC2 ;
+    float: left;
+}
+
+.kutu3 {
+    width: 33%;
+    height: 80px;
+    margin-left: 5px;
+    background-color:#62B3AA;
+    float: left;
+}
+
+#yazi {
+    width: 200px;
+    text-align: center;
+    margin: auto auto;
+    
+}
+
+#padding2 {
+ padding: 5px;
+ font-size: 12px;
+}
+
+.padding1 {
+    padding-top: 7px;
+}
+
+#padding3 {
+    font-size: 12px;
+}
